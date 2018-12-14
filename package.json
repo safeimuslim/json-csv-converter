@@ -1,0 +1,27 @@
+{
+  "name": "json-csv-converter",
+  "version": "1.0.0",
+  "description": "json csv converter vice verca",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/safeimuslim/json-csv-converter.git"
+  },
+  "keywords": [
+    "json",
+    "csv",
+    "json2csv",
+    "json",
+    "csv",
+    "converter"
+  ],
+  "author": "safeydev@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/safeimuslim/json-csv-converter/issues"
+  },
+  "homepage": "https://github.com/safeimuslim/json-csv-converter#readme"
+}
